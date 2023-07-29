@@ -5,6 +5,4 @@ The original repo has not been updated in four years, so I am trying to fix it h
 This seems to be a set of inter-dependent packages:
 `mdx-deck` depends on `gatsby-plugin` and `themes`
 
-This is the original readme.md
-
-packages/mdx-deck/README.md
+The original readme.md is under packages/mdx-deck/README.md
